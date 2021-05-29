@@ -8,10 +8,8 @@ django-crispy-forms==1.11.0
 djangorestframework==3.12.4
 djangorestframework-simplejwt==4.6.0
 drf-jwt==1.19.0
-gunicorn==20.1.0
 idna==2.10
 Pillow==8.1.2
-psycopg2-binary==2.8.6
 pycparser==2.20
 PyJWT==2.0.1
 pytz==2020.5
